@@ -90,7 +90,14 @@ Start here to build intuition for embeddings and similarity in RAG. The notebook
 Focus on experimenting and connecting the concepts as you work through the notebook. No prior knowledge of embeddings is needed!
 
 
-📓 **[Start Part 1 →](services/1_embedding_services/assignment.ipynb)**
+```
+services/1_embedding_services/
+├── assignment.ipynb          # Interactive notebook (start here!)
+├── embedding_services.py     # Service implementation template
+└── __init__.py              # Module initialization
+
+``` 
+📓 **[Start Part 1](services/1_embedding_services/assignment.ipynb)**
 
 ---
 
